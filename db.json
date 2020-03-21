@@ -8,5 +8,28 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": { "name": "typicode" }
+  "profile": { "name": "typicode" },
+
+  "people" : {
+    "listOfPeople": [
+      { "id": 1, "name": "Salvo" },
+      { "id": 2, "name": "Ana" },
+      { "id": 3, "name": "Fran" },
+      { "id": 4, "name": "Tony" },
+      { "id": 5, "name": "Max" },
+      { "id": 6, "name": "Adam" },
+      { "id": 7, "name": "Luigi" },
+      { "id": 8, "name": "Matteo" },
+      { "id": 9, "name": "Sebastian" },
+      { "id": 10, "name": "Etienne" },
+      { "id": 11, "name": "Ruben" },
+      { "id": 12, "name": "Filipe" },
+      { "id": 13, "name": "Eduardo" },
+      { "id": 14, "name": "Jara" },
+      { "id": 15, "name": "Elmar" },
+      { "id": 16, "name": "Imco" }
+    ]
+  }
+
+
 }
