@@ -1,0 +1,12 @@
+{
+  "posts": [
+    { "id": 1, "person": "Salvo" },
+    { "id": 1, "person": "Ana" },
+    { "id": 1, "person": "Fran" },
+    { "id": 1, "person": "Tony" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
